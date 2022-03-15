@@ -2,7 +2,8 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning MERN Stack | Full Stack Development
 - 💞 I’m looking to collaborate on MERN Stack Projects
-- 📫 How to reach me ritesh.singla36@gmail.com
+- 📫 You can reach me at ritesh.singla36@gmail.com
+- ⚡ Fun fact: Qualification-wise I do not belong to any engineering background
 
 
 <h3 align="center">Feel Free to Contact me.....</h3>
