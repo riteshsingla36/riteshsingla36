@@ -9,11 +9,11 @@
 <h3 align="center">Feel Free to Contact me.....</h3>
 <p align="center">
         <a href="https://github.com/riteshsingla36"><img alt="github" width="10%" style="padding:5px"
-                        src="https://img.icons8.com/clouds/100/000000/github.png" /></a>
+                        src="https://img.icons8.com/clouds/100/000000/github.png" target="_blank" /></a>
         <a href="https://www.linkedin.com/in/ritesh-kumar-89122716b/"><img alt="linkedin" width="10%" style="padding:5px"
-                        src="https://img.icons8.com/clouds/100/000000/linkedin.png" /></a>
+                        src="https://img.icons8.com/clouds/100/000000/linkedin.png" target="_blank" /></a>
         <a href="https://twitter.com/RiteshK80970924"><img alt="twitter" width="10%" style="padding:5px"
-                        src="https://img.icons8.com/clouds/100/000000/twitter.png" /></a>
+                        src="https://img.icons8.com/clouds/100/000000/twitter.png" target="_blank" /></a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center ">  
