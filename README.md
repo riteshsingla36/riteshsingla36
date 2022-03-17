@@ -12,8 +12,8 @@
                         src="https://img.icons8.com/clouds/100/000000/github.png" /></a>
         <a href="https://www.linkedin.com/in/ritesh-kumar-89122716b/"><img alt="linkedin" width="10%" style="padding:5px"
                         src="https://img.icons8.com/clouds/100/000000/linkedin.png" /></a>
-        <!-- <a href="https://twitter.com/coderrmann"><img alt="twitter" width="10%" style="padding:5px"
-                        src="https://img.icons8.com/clouds/100/000000/twitter.png" /></a> -->
+        <a href="https://twitter.com/RiteshK80970924"><img alt="twitter" width="10%" style="padding:5px"
+                        src="https://img.icons8.com/clouds/100/000000/twitter.png" /></a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center ">  
