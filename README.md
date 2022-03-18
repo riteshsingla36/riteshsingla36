@@ -14,6 +14,8 @@
                         src="https://img.icons8.com/clouds/100/000000/linkedin.png" target="_blank" /></a>
         <a href="https://twitter.com/RiteshK80970924"><img alt="twitter" width="10%" style="padding:5px"
                         src="https://img.icons8.com/clouds/100/000000/twitter.png" target="_blank" /></a>
+        <a href="https://ritesh-singla.netlify.app/"><img alt="twitter" width="10%" style="padding:5px"
+                        src="https://img.icons8.com/clouds/344/resume.png" target="_blank" /></a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center ">  
