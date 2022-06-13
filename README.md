@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @<b>Ritesh Kumar</b>
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning MERN Stack | Full Stack Development
+- 🌱 I’m currently working at Red Basil Technologies Pvt. Ltd.
 - 💞 I’m looking to collaborate on MERN Stack Projects
 - 📫 You can reach me at ritesh.singla36@gmail.com
 - ⚡ Fun fact: Qualification-wise I do not belong to any engineering background
